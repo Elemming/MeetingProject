@@ -279,10 +279,6 @@ class MainSystem {
     {
         System.out.println("Program Started");
         MainSystem ms = new MainSystem();
-        ms.users.put("a@a", new User("a", "a@a"));
-        ms.users.put("b@a", new User("b", "b@a"));
-        ms.users.put("c@a", new User("c", "c@a"));
-        ms.users.put("d@a", new User("d", "d@a"));
         ms.run();
         System.out.println("Program ended");
     }
