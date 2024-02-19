@@ -1,4 +1,11 @@
-Project for the following Exercise
+Project was made for the Exercise at the bottom of the document
+
+I have worked with the assumesion that an email is some text followed by a @ follow by some text, and all meeting as scheduled in the same timezone.
+Addinally then my recommendations will always be between 8 and 16 o'clock where no users in the meeting has another meeting, but the System allows for meetings igorene these constraints.
+
+Was I making the exercise for extendability then I would have made it in more class and split more up instead of a giant switch statment and would likely have implemented it as a full state machine instead.
+
+
 
 ---------- Programming exercise start ---------------
 
